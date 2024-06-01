@@ -1,0 +1,7 @@
+#ingnore node_modules directory
+
+node_modules/
+.env
+#other entries....
+package.json
+package-lock.json
